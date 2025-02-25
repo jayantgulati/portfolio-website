@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: 'Cloud Security Engineer',
-    company: "Aquanow, Vancouver (Remote) ",
+    company: " Aquanow ",
     duration: "(Dec 2024 - Present)"
   },
   {
