@@ -10,7 +10,7 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Jayant Gulati - Cloud Security Engineer",
+  title: " Jayant Gulati ",
   description:
     "My name is JAYANT GULATI. I am a Cloud Security Engineer with 6 years of experience in securing cloud environments, specializing in AWS security, IAM governance, and compliance automation. I design and implement robust security controls, leveraging Terraform and Python to enhance cloud security posture. ",
 };
